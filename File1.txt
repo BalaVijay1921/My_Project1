@@ -2,4 +2,7 @@ Hello Git
 Change in master
 New change in master
 New change 1
+<<<<<<< HEAD
 New Change 2
+=======
+>>>>>>> 1ad3041 ( copied code manually from main in File1.txt)
